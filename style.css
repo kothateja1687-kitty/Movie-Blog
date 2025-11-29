@@ -1,0 +1,58 @@
+ @import url('https://fonts.cdnfonts.com/css/samsung-sharp-sans');
+ *{
+    font-family: 'Samsung Sharp Sans', sans-serif;
+ } 
+ body{
+    background-color: black;
+    color: aliceblue;
+    background-image:url( https://img.freepik.com/free-vector/nice-film-strip-shiny-background-with-text-space_1017-52821.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.4); /* dark overlay */
+}
+.head{
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 10px;
+    height: 40px;
+    border-left: 3px solid red;
+}
+h2{
+    background-color: navy;
+    color: aliceblue;
+    border-radius: 7px;
+    height: 35px;
+    padding-left: 10px;
+    border-left: 3px solid red;
+}
+h3{
+    color: goldenrod;
+}
+audio{
+     width: 100%;
+    box-shadow: 5px -5px 5px rgba(0, 0, 0, 0.155);
+    height: 40px;
+   border-radius: 30px;
+}
+.dlt{
+   background-color: orangered 
+}
+img{
+    box-shadow: 2px 5px 10px red;
+}
+ins{
+    color: goldenrod;
+}
+abbr{
+    color: goldenrod;
+}
+mark{
+    background-color: red;
+}
+.and{
+color: aqua;
+}  
+span{
+     background-color: brown;
+}
+   
